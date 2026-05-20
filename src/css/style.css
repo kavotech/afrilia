@@ -543,10 +543,9 @@ p  { color: var(--text-500); font-size: 0.95rem; line-height: 1.75; }
 .hero {
   position: relative;
   min-height: 100vh;
-  display: grid;
-  grid-template-columns: 55% 45%;
+  display: flex;
+  align-items: stretch;
   overflow: hidden;
-  background: var(--green-900);
 }
 
 .hero-left {
@@ -556,24 +555,7 @@ p  { color: var(--text-500); font-size: 0.95rem; line-height: 1.75; }
   flex-direction: column;
   justify-content: center;
   padding: 5rem clamp(2rem, 5vw, 5rem) 5rem clamp(2rem, calc((100vw - 1180px) / 2 + 2rem), 6rem);
-  background: var(--green-900);
-}
-
-.hero-left::after {
-  content: '';
-  position: absolute;
-  right: -60px;
-  top: 0;
-  bottom: 0;
-  width: 120px;
-  background: var(--green-900);
-  clip-path: polygon(0 0, 40% 0, 100% 100%, 0 100%);
-  z-index: 3;
-}
-
-.hero-right {
-  position: relative;
-  overflow: hidden;
+  max-width: 700px;
 }
 
 .hero-bg {
@@ -608,7 +590,7 @@ p  { color: var(--text-500); font-size: 0.95rem; line-height: 1.75; }
 .hero-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(90deg, rgba(11,31,20,0.5) 0%, rgba(11,31,20,0.2) 100%);
+  background: linear-gradient(90deg, rgba(11,31,20,0.75) 0%, rgba(11,31,20,0.35) 60%, rgba(11,31,20,0.2) 100%);
   z-index: 1;
 }
 
@@ -2917,17 +2899,11 @@ footer {
   .mobile-nav { display: block; }
 
   .hero {
-    grid-template-columns: 1fr;
     min-height: 100svh;
   }
   .hero-left {
     padding: 8rem 1.75rem 4rem;
-    min-height: 60vh;
-  }
-  .hero-left::after { display: none; }
-  .hero-right {
-    height: 40vh;
-    min-height: 280px;
+    max-width: 100%;
   }
   .hero-scroll-indicator { display: none; }
 
