@@ -597,7 +597,7 @@
         thanksPanel.innerHTML =
           '<p style="margin:0 0 0.75rem;font-weight:700;color:var(--green-800);">Thank you. We have received your enquiry.</p>' +
           '<p style="margin:0 0 0.75rem;">Our team will review your details and get back to you within one business day.</p>' +
-          '<p style="margin:0 0 1.2rem;">If it is urgent, please call +256 (0) 788 655973.</p>' +
+          '<p style="margin:0 0 1.2rem;">If it is urgent, please call +256 (0) 703 666669.</p>' +
           '<div class="btn-group" style="gap:0.75rem;">' +
             '<a href="/" class="btn btn-primary">Back to Home</a>' +
             '<a href="/products/coffee" class="btn btn-outline">Explore Products</a>' +
