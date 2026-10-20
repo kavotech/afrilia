@@ -96,7 +96,7 @@ export function renderTestimonials(): string {
         <a href="/contact" data-link class="btn-primary">
           <i class="fas fa-file-alt"></i> Request Export Quote
         </a>
-        <a href="https://wa.me/256703666669" target="_blank" rel="noopener noreferrer" class="btn-outline">
+        <a href="https://wa.me/256788655973" target="_blank" rel="noopener noreferrer" class="btn-outline">
           <i class="fab fa-whatsapp"></i> WhatsApp Us
         </a>
       </div>

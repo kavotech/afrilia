@@ -259,7 +259,7 @@ export function renderHome(): string {
               </div>
             </div>
 
-            <a href="https://wa.me/256703666669?text=Hello%2C%20I%20want%20to%20order%20Afrilia%20Coffee%20Beans"
+            <a href="https://wa.me/256788655973?text=Hello%2C%20I%20want%20to%20order%20Afrilia%20Coffee%20Beans"
                target="_blank" rel="noopener noreferrer"
                class="bev-order-btn">
               <i class="fab fa-whatsapp text-lg"></i>
@@ -314,7 +314,7 @@ export function renderHome(): string {
               </div>
             </div>
 
-            <a href="https://wa.me/256703666669?text=Hello%2C%20I%20want%20to%20order%20Afrilia%20Coffee%20Powder"
+            <a href="https://wa.me/256788655973?text=Hello%2C%20I%20want%20to%20order%20Afrilia%20Coffee%20Powder"
                target="_blank" rel="noopener noreferrer"
                class="bev-order-btn">
               <i class="fab fa-whatsapp text-lg"></i>
@@ -404,7 +404,7 @@ export function renderHome(): string {
               </div>
               <div>
                 <p class="text-green-300 text-xs font-medium tracking-wide uppercase">International Export Line</p>
-                <p class="text-white font-semibold">+256 (0) 703 666669</p>
+                <p class="text-white font-semibold">+256 (0) 788 655973</p>
               </div>
             </div>
             <div class="feature-row stagger-2">
@@ -440,7 +440,7 @@ export function renderHome(): string {
             <a href="/contact" data-link class="btn-primary">
               <i class="fas fa-file-alt"></i> Request Export Quote
             </a>
-            <a href="https://wa.me/256703666669" target="_blank" rel="noopener noreferrer" class="btn-outline">
+            <a href="https://wa.me/256788655973" target="_blank" rel="noopener noreferrer" class="btn-outline">
               <i class="fab fa-whatsapp"></i> WhatsApp Us
             </a>
           </div>

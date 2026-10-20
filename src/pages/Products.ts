@@ -116,7 +116,7 @@ export function renderProducts(): string {
               </div>
             </div>
 
-            <a href="https://wa.me/256703666669?text=Hello%2C%20I%20want%20to%20order%20Afrilia%20Coffee%20Beans" 
+            <a href="https://wa.me/256788655973?text=Hello%2C%20I%20want%20to%20order%20Afrilia%20Coffee%20Beans" 
                target="_blank" rel="noopener noreferrer"
                class="w-full btn-green justify-center rounded-xl">
               <i class="fab fa-whatsapp text-lg"></i> Order Now via WhatsApp
@@ -166,7 +166,7 @@ export function renderProducts(): string {
               </div>
             </div>
 
-            <a href="https://wa.me/256703666669?text=Hello%2C%20I%20want%20to%20order%20Afrilia%20Coffee%20Powder" 
+            <a href="https://wa.me/256788655973?text=Hello%2C%20I%20want%20to%20order%20Afrilia%20Coffee%20Powder" 
                target="_blank" rel="noopener noreferrer"
                class="w-full btn-green justify-center rounded-xl">
               <i class="fab fa-whatsapp text-lg"></i> Order Now via WhatsApp

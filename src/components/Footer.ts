@@ -96,7 +96,7 @@ export function renderFooter(): string {
           <h3 class="text-white font-bold text-xs mb-6 uppercase" style="letter-spacing:0.15em;">Get In Touch</h3>
           <ul class="space-y-3">
             <li class="text-gray-400 text-sm">Kampala, Uganda</li>
-            <li><a href="tel:+256703666669" class="text-gray-400 hover:text-white text-sm transition-colors duration-200">+256 (0) 703 666669</a></li>
+            <li><a href="tel:+256788655973" class="text-gray-400 hover:text-white text-sm transition-colors duration-200">+256 (0) 788 655973</a></li>
             <li><a href="mailto:afriliaagro@gmail.com" class="text-gray-400 hover:text-white text-sm transition-colors duration-200">afriliaagro@gmail.com</a></li>
           </ul>
         </div>

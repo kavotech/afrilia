@@ -22,10 +22,10 @@ export function renderHeader(): string {
 
         <!-- Desktop CTA -->
         <div class="hidden lg:flex items-center gap-5">
-          <a href="tel:+256703666669"
+          <a href="tel:+256788655973"
              class="text-sm font-medium transition-colors duration-200 hover:text-white"
              style="color:rgba(255,255,255,0.55);">
-            +256 (0) 703 666669
+            +256 788 655973
           </a>
           <div class="h-4 w-px" style="background:rgba(255,255,255,0.12);"></div>
           <a href="/contact" data-link
@@ -38,10 +38,10 @@ export function renderHeader(): string {
 
         <!-- Mobile Right Icons -->
         <div class="flex lg:hidden items-center gap-0.5">
-          <a href="tel:+256703666669" class="mob-icon-btn" aria-label="Call us">
+          <a href="tel:+256788655973" class="mob-icon-btn" aria-label="Call us">
             <i class="fas fa-phone-alt"></i>
           </a>
-          <a href="https://wa.me/256703666669" target="_blank" rel="noopener noreferrer" class="mob-icon-btn" aria-label="WhatsApp">
+          <a href="https://wa.me/256788655973" target="_blank" rel="noopener noreferrer" class="mob-icon-btn" aria-label="WhatsApp">
             <i class="fab fa-whatsapp text-lg"></i>
           </a>
           <button id="mobile-menu-toggle" class="mob-icon-btn" aria-label="Open menu" aria-expanded="false">
@@ -100,7 +100,7 @@ export function renderHeader(): string {
          style="background: linear-gradient(135deg,#C8922A,#a8721a);">
         <i class="fas fa-file-alt"></i> Request a Quote
       </a>
-      <p class="text-center text-xs mt-4" style="color:rgba(255,255,255,0.3);">+256 (0) 703 666669</p>
+      <p class="text-center text-xs mt-4" style="color:rgba(255,255,255,0.3);">+256 788 655 973</p>
     </div>
   </div>
 

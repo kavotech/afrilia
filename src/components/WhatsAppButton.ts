@@ -1,6 +1,6 @@
 export function renderWhatsAppButton(): string {
   return `
-  <a href="https://wa.me/256703666669" 
+  <a href="https://wa.me/256788655973" 
      target="_blank" 
      rel="noopener noreferrer"
      class="fixed bottom-6 right-6 z-50 bg-green-500 hover:bg-green-600 text-white font-semibold 
