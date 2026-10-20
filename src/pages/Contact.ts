@@ -31,7 +31,7 @@ export function renderContact(): string {
               </div>
               <div>
                 <p class="text-gray-500 text-xs font-medium">International Export Line</p>
-                <p class="text-gray-900 font-semibold">+256 (0) 788 655973</p>
+                <p class="text-gray-900 font-semibold">+256 (0) 703 666669</p>
               </div>
             </div>
             <div class="flex items-center gap-4">
@@ -64,7 +64,7 @@ export function renderContact(): string {
           </div>
 
           <div class="flex flex-wrap gap-4">
-            <a href="https://wa.me/256788655973" target="_blank" rel="noopener noreferrer" class="btn-green">
+            <a href="https://wa.me/256703666669" target="_blank" rel="noopener noreferrer" class="btn-green">
               <i class="fab fa-whatsapp"></i> WhatsApp Us
             </a>
           </div>

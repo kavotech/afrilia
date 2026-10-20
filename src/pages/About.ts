@@ -243,8 +243,8 @@ export function renderAbout(): string {
                 A trusted partner in agricultural trade and international export solutions, helping us connect Ugandan farmers with buyers across global markets.
               </p>
               <div class="flex flex-wrap gap-4 text-sm text-gray-600">
-                <a href="tel:0780391916" class="flex items-center gap-2 hover:text-primary-700 transition-colors">
-                  <i class="fas fa-phone-alt text-primary-700"></i> 0780 391 916
+                <a href="tel:+256703666669" class="flex items-center gap-2 hover:text-primary-700 transition-colors">
+                  <i class="fas fa-phone-alt text-primary-700"></i> +256 (0) 703 666669
                 </a>
                 <a href="mailto:triportagro@gmail.com" class="flex items-center gap-2 hover:text-primary-700 transition-colors">
                   <i class="fas fa-envelope text-primary-700"></i> triportagro@gmail.com
@@ -278,7 +278,7 @@ export function renderAbout(): string {
         <a href="/contact" data-link class="btn-primary">
           <i class="fas fa-file-alt"></i> Request Export Quote
         </a>
-        <a href="https://wa.me/256788655973" target="_blank" rel="noopener noreferrer" class="btn-outline">
+        <a href="https://wa.me/256703666669" target="_blank" rel="noopener noreferrer" class="btn-outline">
           <i class="fab fa-whatsapp"></i> WhatsApp Us
         </a>
       </div>
